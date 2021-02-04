@@ -1,5 +1,5 @@
 // Imports
-const fetch = require('node-fetch');
+const fetch = require('node-fetch'); // only works in NODE
 
 
 // fetch('https://espn.com') // url, endpoint
