@@ -1,0 +1,23 @@
+{
+  "name": "mastering-APIS",
+  "version": "1.0.0",
+  "description": "working on APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharri64/mastering-APIS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharri64/mastering-APIS/issues"
+  },
+  "homepage": "https://github.com/aharri64/mastering-APIS#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
