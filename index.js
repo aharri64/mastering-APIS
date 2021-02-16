@@ -1,8 +1,8 @@
 // Imports
-const fetch = require('node-fetch'); // only works in NODE
+const fetch = require('node-fetch'); // *only works in NODE
 
 
-// fetch('https://espn.com') // url, endpoint
+// fetch('https://espn.com') //* url, endpoint
 //     .then((response) => {
 //         return response.text(); // an extra that happens to see the text
 //     })
@@ -10,7 +10,7 @@ const fetch = require('node-fetch'); // only works in NODE
 //         console.log(html);
 //     });
 
-// request to a third art database that returns a json object
+// request to a third party database that returns a json object
 /*
 fetch('https://api.github.com/users/aharri64') //endpoint
     .then(response => {
